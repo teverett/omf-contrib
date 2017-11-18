@@ -1,3 +1,6 @@
+[![Travis](https://travis-ci.org/teverett/omf-contrib.svg?branch=master)](https://travis-ci.org/teverett/omf-contrib)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/21103ac5d4214b0dab79a78c613aee93)](https://www.codacy.com/app/teverett/omf-contrib?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=teverett/omf-contrib&amp;utm_campaign=Badge_Grade)
+
 omf-contrib
 ========
 
